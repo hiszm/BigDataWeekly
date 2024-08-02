@@ -22,6 +22,7 @@
 
 # 关注 **大数据精读周刊** 微信公众号
 
+![大数据精读周刊](https://github.com/user-attachments/assets/37fc762f-3174-4f4b-b8f4-4df24539901c)
 
-![大数据精读周刊](https://github.com/user-attachments/assets/f1f3a5a8-a44e-4fe0-8820-229a4214ee88)
+
 
