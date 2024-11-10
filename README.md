@@ -10,7 +10,7 @@
 逐渐加入一些**组件技术**解读。
 一些 **商业思考**。
 
-## 经典论文
+## 目录
 
 - [001.精读《Big Data: A Survey》](https://github.com/hiszm/BigDataWeekly/blob/main/%E7%BB%8F%E5%85%B8%E8%AE%BA%E6%96%87/001.%E7%B2%BE%E8%AF%BB%E3%80%8ABig%20Data%3A%20A%20Survey%E3%80%8B.md)
 
